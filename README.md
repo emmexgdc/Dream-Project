@@ -17,6 +17,8 @@ This application allows users to create a list of countries they'd like to visit
 3. Update the `.env` file with your API URL (e.g., `REACT_APP_API_URL=http://localhost:3001`).
 4. Run `npm start` to start the React development server.
 
+Configure your database
+
 ## Features
 - **Add Countries**: Users can add countries to their dream vacation list.
 - **View Country Details**: Displays capital, population, and region information for each country.
